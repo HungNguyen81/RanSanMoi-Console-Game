@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\bin\Debug\netcoreapp2.1\Delegate and Event.deps.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\bin\Debug\netcoreapp2.1\Delegate and Event.runtimeconfig.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\bin\Debug\netcoreapp2.1\Delegate and Event.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\bin\Debug\netcoreapp2.1\Delegate and Event.dll
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\bin\Debug\netcoreapp2.1\Delegate and Event.pdb
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\obj\Debug\netcoreapp2.1\Delegate and Event.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\obj\Debug\netcoreapp2.1\Delegate and Event.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\obj\Debug\netcoreapp2.1\Delegate and Event.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\obj\Debug\netcoreapp2.1\Delegate and Event.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\obj\Debug\netcoreapp2.1\Delegate and Event.dll
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Delegate and Event\obj\Debug\netcoreapp2.1\Delegate and Event.pdb

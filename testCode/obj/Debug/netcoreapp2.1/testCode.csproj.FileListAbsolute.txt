@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\bin\Debug\netcoreapp2.1\testCode.deps.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\bin\Debug\netcoreapp2.1\testCode.runtimeconfig.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\bin\Debug\netcoreapp2.1\testCode.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\bin\Debug\netcoreapp2.1\testCode.dll
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\bin\Debug\netcoreapp2.1\testCode.pdb
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\obj\Debug\netcoreapp2.1\testCode.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\obj\Debug\netcoreapp2.1\testCode.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\obj\Debug\netcoreapp2.1\testCode.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\obj\Debug\netcoreapp2.1\testCode.dll
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\obj\Debug\netcoreapp2.1\testCode.pdb
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\testCode\obj\Debug\netcoreapp2.1\testCode.csprojAssemblyReference.cache

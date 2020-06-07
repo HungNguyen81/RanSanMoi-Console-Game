@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\bin\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.deps.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\bin\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.runtimeconfig.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\bin\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\bin\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.dll
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\bin\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.pdb
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\obj\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\obj\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\obj\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\obj\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\obj\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.dll
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\ranSanMoiConsoleCsharp\obj\Debug\netcoreapp2.1\ranSanMoiConsoleCsharp.pdb

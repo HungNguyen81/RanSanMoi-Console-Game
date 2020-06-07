@@ -1,0 +1,11 @@
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\bin\Debug\netcoreapp2.1\Clock.deps.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\bin\Debug\netcoreapp2.1\Clock.runtimeconfig.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\bin\Debug\netcoreapp2.1\Clock.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\bin\Debug\netcoreapp2.1\Clock.dll
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\bin\Debug\netcoreapp2.1\Clock.pdb
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\obj\Debug\netcoreapp2.1\Clock.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\obj\Debug\netcoreapp2.1\Clock.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\obj\Debug\netcoreapp2.1\Clock.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\obj\Debug\netcoreapp2.1\Clock.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\obj\Debug\netcoreapp2.1\Clock.dll
+C:\Users\Asus\source\repos\ranSanMoiConsoleCsharp\Clock\obj\Debug\netcoreapp2.1\Clock.pdb
